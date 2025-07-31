@@ -1,4 +1,6 @@
 EDGE_DETECTION
+(ALONG WITH THE NOTES FILE WHICH CONSIST OF DEFINATION AND SOME EXPLORATION OF THE TOPIC WITH THE HELP OF OPEN AI)
+
 This repository contains implementations and demonstrations of various classical edge detection techniques using OpenCV in Python. The techniques explored include Sobel, Laplacian, and Canny edge detectors on grayscale images.
 
 Project Overview
